@@ -1,0 +1,15 @@
+{
+  "data_status": "MOCK synthetic student; no real bank/personal data",
+  "name": "Demo Student",
+  "home_currency": "BDT",
+  "study_currency": "USD",
+  "as_of": "2026-10-20",
+  "opening_balances": {
+    "USD": 18000,
+    "BDT": 120000
+  },
+  "tuition_usd": 6000,
+  "tuition_due": "2026-11-10",
+  "review_threshold_usd": 1000,
+  "threshold_note": "MOCK detection parameter, NOT a legal reporting threshold"
+}

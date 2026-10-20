@@ -1,0 +1,55 @@
+{
+  "data_status": "MOCK fictional providers, fees and limits",
+  "providers": [
+    {
+      "name": "CampusBridge",
+      "fixed_fee": 2,
+      "percentage_fee": 0.25,
+      "fx_margin_pct": 0.35,
+      "speed_hours": 24,
+      "min_amount": 10,
+      "max_amount": 1000000,
+      "units": "MOCK fees/limits in sender currency; percentages in percent"
+    },
+    {
+      "name": "ZeroFee Mirage",
+      "fixed_fee": 0,
+      "percentage_fee": 0,
+      "fx_margin_pct": 4,
+      "speed_hours": 8,
+      "min_amount": 10,
+      "max_amount": 1000000,
+      "units": "MOCK fees/limits in sender currency; percentages in percent"
+    },
+    {
+      "name": "StudySwift",
+      "fixed_fee": 5,
+      "percentage_fee": 0.1,
+      "fx_margin_pct": 0.15,
+      "speed_hours": 6,
+      "min_amount": 10,
+      "max_amount": 1000000,
+      "units": "MOCK fees/limits in sender currency; percentages in percent"
+    },
+    {
+      "name": "GlobePocket",
+      "fixed_fee": 1,
+      "percentage_fee": 0.5,
+      "fx_margin_pct": 0.6,
+      "speed_hours": 72,
+      "min_amount": 10,
+      "max_amount": 1000000,
+      "units": "MOCK fees/limits in sender currency; percentages in percent"
+    },
+    {
+      "name": "StudentWire",
+      "fixed_fee": 12,
+      "percentage_fee": 0,
+      "fx_margin_pct": 0.2,
+      "speed_hours": 48,
+      "min_amount": 10,
+      "max_amount": 5000000,
+      "units": "MOCK fees/limits in sender currency; percentages in percent"
+    }
+  ]
+}

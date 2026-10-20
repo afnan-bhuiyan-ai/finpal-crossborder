@@ -1,0 +1,10 @@
+{
+  "alerts": [
+    {
+      "pair": "USD/BDT",
+      "target_rate": 123.0,
+      "data_status": "MOCK",
+      "status": "saved; no live monitoring"
+    }
+  ]
+}
